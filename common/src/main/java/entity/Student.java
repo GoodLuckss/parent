@@ -1,6 +1,7 @@
 package entity;
 //阿斯顿发送到发送到发送到
 public class Student {
+    private Integer names;
     private Integer id;
     private String name;
     private Integer age;
