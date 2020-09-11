@@ -1,5 +1,5 @@
 package entity;
-//阿斯顿发送到发送到
+//阿斯顿发送到发送
 public class Student {
 
     private Integer id;
